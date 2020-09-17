@@ -1,4 +1,4 @@
-# code-refactor-homework-1-ARR
+# code-refactor-homework-1-arr
 
 Rutgers Bootcamp homework 1 of 20, Code Refactor
 
