@@ -22,3 +22,5 @@ List of Html changes done below:
  * search-engine-optimization h2, online-reputation-management h2, and social-media-marketing h2 class combined into search-online-social h2 class to minimize code 
  * search-engine-optimization img, online-reputation-management img, and social-media-marketing img class combined into one search-online-social img class to minimize code
  * benefit lead, benefit cost, and benefit brand class combined into benefit-lead-cost-brand class to minimize code 
+ 
+ Link to refactored page = https://onejamaican.github.io/code-refactor/
