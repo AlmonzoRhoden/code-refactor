@@ -1,9 +1,13 @@
 <h1 align = "center" > Code Refactor </h1>
 
+<h2> Screenshot of application </h2>
+
+![laptop](https://user-images.githubusercontent.com/61447353/96191090-664b3e80-0f11-11eb-8c68-1d4e5970cf7a.PNG)
+
 <h2> Description </h2>
 
 Did changes to both the HTML and CSS files to an existing website either to fix errors, improve website, or remove redundant code to make it cleaner. 
-Also, added comments within code of what changes were done in both HTML and CSS.
+Also, added comments within the code of what changes were done.
 
 List of Html changes done below:
  * Added favicon image
