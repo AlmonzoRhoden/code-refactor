@@ -1,6 +1,6 @@
 <h1 align = "center" > Code Refactor </h1>
 
-<h2> Screenshot of application </h2>
+<h2> Preview of application </h2>
 
 ![Website-preview](https://user-images.githubusercontent.com/61447353/103180125-dc004e80-4860-11eb-84e4-0b220c312ace.PNG)
 
