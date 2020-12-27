@@ -2,7 +2,8 @@
 
 <h2> Description </h2>
 
-Did changes to both HTML and CSS files to either fix errors, improve website, or remove redundant code to make it cleaner. Also, added comments within code of what changes were done in both Html and CSS.
+Did changes to both the HTML and CSS files to an existing website either to fix errors, improve website, or remove redundant code to make it cleaner. 
+Also, added comments within code of what changes were done in both HTML and CSS.
 
 List of Html changes done below:
  * Added favicon image
