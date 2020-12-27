@@ -1,4 +1,4 @@
-<h1 align = "center" > 1: Code Refactor </h1>
+<h1 align = "center" > Code Refactor </h1>
 
 <h2> Preview of application </h2>
 
