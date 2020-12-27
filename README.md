@@ -1,6 +1,6 @@
 <h1 align = "center" > Code Refactor </h1>
 
-Rutgers Bootcamp homework 1 of 20, Code Refactor
+<h2> Descripition </h2>
 
 Did changes to both HTML and CSS files to either fix errors, improve website, or remove redundant code to make it cleaner. Also, added comments within code of what changes were done in both Html and CSS.
 
