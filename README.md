@@ -28,4 +28,4 @@ List of Html changes done below:
  * search-engine-optimization img, online-reputation-management img, and social-media-marketing img class combined into one search-online-social img class to minimize code
  * benefit lead, benefit cost, and benefit brand class combined into benefit-lead-cost-brand class to minimize code 
  
-<h2> Deployed application </h2>https://almonzorhoden.github.io/code-refactor/ 
+<h2> Deployed application (must be viewed on desktop)  </h2> https://almonzorhoden.github.io/code-refactor/ 
