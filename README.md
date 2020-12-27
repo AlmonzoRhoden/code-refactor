@@ -2,7 +2,7 @@
 
 <h2> Screenshot of application </h2>
 
-![laptop](https://user-images.githubusercontent.com/61447353/96191090-664b3e80-0f11-11eb-8c68-1d4e5970cf7a.PNG)
+![Website-preview](https://user-images.githubusercontent.com/61447353/103180125-dc004e80-4860-11eb-84e4-0b220c312ace.PNG)
 
 <h2> Description </h2>
 
