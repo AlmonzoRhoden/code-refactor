@@ -1,8 +1,6 @@
 <h1 align = "center" > Code Refactor </h1>
 
-<h2> Preview of application </h2>
-
-![Website-preview](https://user-images.githubusercontent.com/61447353/103180125-dc004e80-4860-11eb-84e4-0b220c312ace.PNG)
+<h2> Deployed application  </h2> https://almonzorhoden.github.io/code-refactor/ 
 
 <h2> Application description </h2>
 
@@ -27,5 +25,7 @@ List of Html changes done below:
  * search-engine-optimization h2, online-reputation-management h2, and social-media-marketing h2 class combined into search-online-social h2 class to minimize code 
  * search-engine-optimization img, online-reputation-management img, and social-media-marketing img class combined into one search-online-social img class to minimize code
  * benefit lead, benefit cost, and benefit brand class combined into benefit-lead-cost-brand class to minimize code 
- 
-<h2> Deployed application (Must be viewed on desktop/laptop, due to original developer styling)  </h2> https://almonzorhoden.github.io/code-refactor/ 
+
+<h2> Preview of application </h2>
+
+![Website-preview](https://user-images.githubusercontent.com/61447353/103180125-dc004e80-4860-11eb-84e4-0b220c312ace.PNG)
