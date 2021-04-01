@@ -4,7 +4,7 @@
 
 ![Website-preview](https://user-images.githubusercontent.com/61447353/103180125-dc004e80-4860-11eb-84e4-0b220c312ace.PNG)
 
-<h2> Application description </h2>
+<h2> Application Description </h2>
 
 Did changes to both the HTML and CSS files to an existing website either to fix errors, improve website, or remove redundant code to make it cleaner. 
 Also, added comments within the code of what changes were done.
